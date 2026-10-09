@@ -6,7 +6,7 @@ Hi 🍵 - I'm Duc Manh
 
 ###
 
-<p align="left">🎓 Sophomore majoring in Java Development<br>📚 Learning to become a Full Stack & Software developer</p>
+<p align="left">🎓 Junior majoring in Java Development<br>📚 Learning to become a Full Stack & Software developer</p>
 
 ---
 
