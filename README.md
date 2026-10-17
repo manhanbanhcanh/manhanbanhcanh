@@ -66,7 +66,7 @@ Currently, I’m working toward becoming a full-stack developer. I know it takes
       srcset="https://github-stats-extended.vercel.app/api?username=manhanbanhcanh&hide=contribs,issues&show_icons=true&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=manhanbanhcanh&hide=contribs,issues&show_icons=true&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=manhanbanhcanh&hide=contribs,issues&show_icons=true&theme=dark_github" />
   </picture>
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=manhanbanhcanh&layout=compact&langs_count=8&card_width=320">
