@@ -60,7 +60,7 @@ Currently, I’m working toward becoming a full-stack developer. I know it takes
 <details>
   <summary><span style="font-weight:500">Random stats</span></summary>
 
-![](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&theme=dark_github)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=manhanbanhcanh&layout=compact&theme=dark_github)
 
 </details>
 
