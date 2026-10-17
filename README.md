@@ -9,7 +9,7 @@ Hi, I am Duc Manh 🌿
 
 > 🍞 My perosnal website: [ducmanh.space](https://ducmanh.space)
 
-![](https://komarev.com/ghpvc/?username=manhanbanhcanh) <span style="font-size: 10px"><-- pretty pathetic btw</span>
+![](https://komarev.com/ghpvc/?username=manhanbanhcanh)
 
 <h4 align="left">Connect with me:</h4>
 <small>💡 FYI, I'm most active on Facebook </small>
